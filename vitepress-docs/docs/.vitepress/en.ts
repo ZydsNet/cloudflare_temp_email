@@ -24,7 +24,7 @@ export const en = defineConfig({
 
         footer: {
             message: 'Based on MIT license',
-            copyright: `Copyright © 2023-${new Date().getFullYear()} Dream Hunter`
+            copyright: `Copyright © 2023-${new Date().getFullYear()} zyds.net`
         },
 
         docFooter: {
