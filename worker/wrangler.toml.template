@@ -91,7 +91,7 @@ ENABLE_AUTO_REPLY = false
 # }
 # """
 # Footer text
-# COPYRIGHT = "Dream Hunter"
+# COPYRIGHT = "zyds.net"
 # DISABLE_SHOW_GITHUB = true
 # DISABLE_SHOW_GITHUB_FOR_USER = true
 # Status monitoring page URL
