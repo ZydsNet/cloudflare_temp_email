@@ -281,7 +281,7 @@ onMounted(async () => {
                         class="header-version-button"
                         tag="a"
                         target="_blank"
-                        href="https://github.com/dreamhunter2333/cloudflare_temp_email"
+                        href="https://zyds.net"
                     >
                         <template #icon>
                             <n-icon :component="GithubAlt" />
@@ -307,7 +307,7 @@ onMounted(async () => {
                         class="mobile-menu-utility-button"
                         target="_blank"
                         rel="noopener noreferrer"
-                        href="https://github.com/dreamhunter2333/cloudflare_temp_email"
+                        href="https://zyds.net"
                     >
                         <n-icon :component="GithubAlt" />
                         <span class="mobile-menu-action-label">{{ version || 'Github' }}</span>
